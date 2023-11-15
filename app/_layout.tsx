@@ -56,7 +56,7 @@ function RootLayoutNav() {
         "pk_test_51MlKm2AKKjIUPD3I4yQOkYJyiseTqBBviG3qS7m5TCDxFXP3TxePNlf3t4Cy2ikIfzBQEjteMfb07LFkyHOikxGy006SWJ3mKM"
       }
       // urlScheme="http://localhost:3000"
-      // merchantIdentifier="merchant.com.tap2pay"
+      merchantIdentifier="merchant.media.revolution"
     >
       <ThemeProvider value={colorScheme === "dark" ? DarkTheme : DefaultTheme}>
         <Stack>
